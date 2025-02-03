@@ -27,9 +27,8 @@ This repository is mainly for personal learning, but if you find any mistakes or
 
 This repository is for educational purposes. Feel free to use and modify the code. 🚀
 
-```
 
 Replace `yourusername` with your actual GitHub username when using the clone command.
 
 Let me know if you need any changes! 🎯
-```
+
