@@ -9,13 +9,20 @@ This repository contains all C programming lab exercises and assignments from my
 To compile and run any C program from this repository, follow these steps:
 
 1. Clone the repository
+
    bash:
+
    git clone https://github.com/yourusername/C_programming.git
    cd C_programming
-2. Compile a program
+
+   
+3. Compile a program
+
    bash
    gcc filename.c -o output
-3. Run the compiled program
+
+   
+4. Run the compiled program
    bash
    ./output
 
