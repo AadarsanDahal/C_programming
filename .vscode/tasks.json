@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build and run C",
+      "type": "shell",
+      "command": "gcc ${file} -o ${fileDirname}/${fileBasenameNoExtension} -lm && ${fileDirname}/${fileBasenameNoExtension}",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [],
+      "detail": "Generated task by user"
+    }
+  ]
+}
