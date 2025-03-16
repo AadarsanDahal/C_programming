@@ -1,0 +1,27 @@
+dnf search zhs 
+
+YUM is also called 
+
+-> to search the given package in dnf package manager 
+
+
+dnf info [package]
+
+gives the info about the package 
+
+
+to install package using dnf 
+
+sudo dnf install [package name]
+
+
+
+uising gcc 
+gcc [file to compile]
+
+to run 
+./a.out
+
+to deletee folder with content 
+
+rm-r [folder name ]
