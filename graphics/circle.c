@@ -10,8 +10,9 @@ int main (){
     initgraphics(&gd, &gm, NULL);
 
     circle(250,250,100);
-
+    getch();
     closegraph();
+
 
     return 0;
 }

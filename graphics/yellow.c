@@ -11,7 +11,7 @@ int main (){
     setcolor(yellow);
     // ellipse(x1,y1,start angle , end angle  width, height );
     ellipse(200,200,0,360, 10, 30 );
-
+    getch();
     closegraph();
 
     return 0;

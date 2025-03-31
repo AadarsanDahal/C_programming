@@ -16,6 +16,7 @@ initgraphics(&gm,&gd,NULL);
 setcolour(red);
  //printing a raectangle
  rectangle(100,200,300,400);
+ getch();
  closegraph();
 
     return 0;
